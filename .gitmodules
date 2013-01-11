@@ -1,0 +1,75 @@
+[submodule "nnandroidsettings"]
+	path = nnandroidsettings
+	url = https://github.com/nuskunetworks/nnandroidsettings.git
+[submodule "plugin.program.nnandroidsettings"]
+	path = plugin.program.nnandroidsettings
+	url = https://github.com/nuskunetworks/nnandroidsettings.git
+[submodule "plugin.program.nnandroidapps"]
+	path = plugin.program.nnandroidapps
+	url = https://github.com/nuskunetworks/nnandroidapps.git
+[submodule "plugin.program.lysesoft.andftp"]
+	path = plugin.program.lysesoft.andftp
+	url = https://github.com/nuskunetworks/nnxbmcandftp.git
+[submodule "plugin.program.net.andchat"]
+	path = plugin.program.net.andchat
+	url = https://github.com/nuskunetworks/nnxbmcandchat.git
+[submodule "plugin.program.com.android.browser"]
+	path = plugin.program.com.android.browser
+	url = https://github.com/nuskunetworks/nnxbmcbrowser.git
+[submodule "plugin.program.com.android.chrome"]
+	path = plugin.program.com.android.chrome
+	url = https://github.com/nuskunetworks/nnxbmcchrome.git
+[submodule "plugin.program.ws.plattner.cifsmanager"]
+	path = plugin.program.ws.plattner.cifsmanager
+	url = https://github.com/nuskunetworks/nnxbmccifsmanager.git
+[submodule "plugin.program.org.connectbot"]
+	path = plugin.program.org.connectbot
+	url = https://github.com/nuskunetworks/nnxbmcconnectbot.git
+[submodule "plugin.program.com.estrongs.android.pop"]
+	path = plugin.program.com.estrongs.android.pop
+	url = https://github.com/nuskunetworks/nnxbmcesfileexplorer.git
+[submodule "plugin.program.org.mozilla.firefox"]
+	path = plugin.program.org.mozilla.firefox
+	url = https://github.com/nuskunetworks/nnxbmcfirefox.git
+[submodule "plugin.program.com.HBO"]
+	path = plugin.program.com.HBO
+	url = https://github.com/nuskunetworks/nnxbmchbogo.git
+[submodule "plugin.program.com.hulu.plus"]
+	path = plugin.program.com.hulu.plus
+	url = https://github.com/nuskunetworks/nnxbmchuluplus.git
+[submodule "plugin.program.jp.sblo.pandora.jota.plus"]
+	path = plugin.program.jp.sblo.pandora.jota.plus
+	url = https://github.com/nuskunetworks/nnxbmcjotaplus.git
+[submodule "plugin.program.com.netflix.mediaclient"]
+	path = plugin.program.com.netflix.mediaclient
+	url = https://github.com/nuskunetworks/nnxbmcnetflix.git
+[submodule "plugin.program.com.pandora.android"]
+	path = plugin.program.com.pandora.android
+	url = https://github.com/nuskunetworks/nnxbmcpandora.git
+[submodule "plugin.program.com.wyse.pocketcloudfull"]
+	path = plugin.program.com.wyse.pocketcloudfull
+	url = https://github.com/nuskunetworks/nnxbmcpocketcloud.git
+[submodule "plugin.program.com.Origin8.Sentinel3"]
+	path = plugin.program.com.Origin8.Sentinel3
+	url = https://github.com/nuskunetworks/nnxbmcsentinel3.git
+[submodule "plugin.program.com.skype.raider"]
+	path = plugin.program.com.skype.raider
+	url = https://github.com/nuskunetworks/nnxbmcskype.git
+[submodule "plugin.program.com.spotify.mobile.android.ui"]
+	path = plugin.program.com.spotify.mobile.android.ui
+	url = https://github.com/nuskunetworks/nnxbmcspotify.git
+[submodule "plugin.program.berserker.android.apps.sshdroid"]
+	path = plugin.program.berserker.android.apps.sshdroid
+	url = https://github.com/nuskunetworks/nnxbmcsshdroid.git
+[submodule "plugin.program.com.quoord.tapatalkpro.activity"]
+	path = plugin.program.com.quoord.tapatalkpro.activity
+	url = https://github.com/nuskunetworks/nnxbmctapatalk.git
+[submodule "plugin.program.org.ttrssreader"]
+	path = plugin.program.org.ttrssreader
+	url = https://github.com/nuskunetworks/nnxbmctinytinyrssreader.git
+[submodule "plugin.program.com.keramidas.TitaniumBackup"]
+	path = plugin.program.com.keramidas.TitaniumBackup
+	url = https://github.com/nuskunetworks/nnxbmctitaniumbackup.git
+[submodule "plugin.program.sk.vx.connectbot"]
+	path = plugin.program.sk.vx.connectbot
+	url = https://github.com/nuskunetworks/nnxbmcvxconnectbot.git
