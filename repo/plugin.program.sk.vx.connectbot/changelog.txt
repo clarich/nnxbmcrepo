@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Version 2.0
+Changelog:
+- Allow launching of native Android settings application
+- Shortcut to install MX Player Free
+-------------------------------------------------------------------------------
+Version 1.0
+Initial release
+Changelog:
+- Quick launch native Android settings application only
+-------------------------------------------------------------------------------

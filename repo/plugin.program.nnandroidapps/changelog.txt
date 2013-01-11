@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Version 1.0
+Initial release
+Noteworthy features:
+* Can be added as a skin shortcut
+* Simple listing / launching of all native Android apps installed
+-------------------------------------------------------------------------------
