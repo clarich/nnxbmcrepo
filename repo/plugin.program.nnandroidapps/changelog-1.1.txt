@@ -4,4 +4,7 @@ Updates to work with official add-on API
 -------------------------------------------------------------------------------
 Version 1.0
 Initial release
+Noteworthy features:
+* Can be added as a skin shortcut
+* Simple listing / launching of all native Android apps installed
 -------------------------------------------------------------------------------
