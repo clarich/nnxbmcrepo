@@ -12,4 +12,4 @@ __version__    = __addon__.getAddonInfo('version')
 __language__   = __addon__.getLocalizedString
 
 if ( __name__ == "__main__" ):
-	xbmc.executebuiltin('XBMC.StartActivity("com.hulu.plus")')
+	xbmc.executebuiltin('XBMC.StartAndroidActivity("com.hulu.plus")')

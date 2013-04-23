@@ -21,7 +21,7 @@ DEBUG = True
 if ( __name__ == "__main__" ):
 	try:
 		package = "com.android.settings"
-		xbmc.executebuiltin('XBMC.StartActivity("com.android.settings")')
+		xbmc.executebuiltin('XBMC.StartAndroidActivity("com.android.settings")')
 		print "KmN: After execute built in"
 	except Exception as e:
 		print "KmN: Exception!"

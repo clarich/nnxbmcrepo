@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.program.com.Origin8.Sentinel3"
   name="Sentinel3"
-  version="1.0" 
+  version="1.1" 
   provider-name="Nusku Networks">
   <requires>
     <import addon="xbmc.python" version="1.0"/>

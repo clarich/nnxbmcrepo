@@ -15,4 +15,4 @@ DEBUG = True
 if ( __name__ == "__main__" ):
 	#xbmc.executebuiltin("xbmc.ActivateWindow(Programs,\"Android Apps\",return)")
 	android_apps = xbmc.getLocalizedString(20244)
-	xbmc.executebuiltin("xbmc.ActivateWindow(Programs,\"" + android_apps + "\",return)")
+	xbmc.executebuiltin("xbmc.StartAndroidActivity(Programs,\"" + android_apps + "\",return)")
